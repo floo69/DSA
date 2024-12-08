@@ -1,4 +1,4 @@
-# Pattern-1: Rectangular/sqaure Star Pattern
+#Rectangular/sqaure Star Pattern
 
 def pattern(n):
     for i in range(n):
